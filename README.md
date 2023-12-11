@@ -11,6 +11,7 @@ SERVERS
   -- Dedicated Auth Server.
   -- Dedicated Content Servers.
   -- Dedicated Stream Servers.
+  -- Dedicated Relay Servers.
   -- Dedicated Download Server.
   -- Dedicated Upload Server.
   -- Dedicated Database Server.
@@ -29,6 +30,6 @@ SERVERS
 Energy Source
 -- Solar Powered
 -- Battery Powered
--- PlugIn Powered
+-- 120V PlugIn Powered
 
 Power Distribution
