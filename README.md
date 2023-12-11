@@ -25,6 +25,7 @@ SERVERS
   -- Dedicated Boot Server
   -- Dedicated Number Crunching Server
   -- Dedicated Shell/Desktop/RemotePC Server
+  -- Dedicated AI Server
 
 
 Energy Source
