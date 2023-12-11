@@ -26,7 +26,11 @@ SERVERS
   20) Dedicated Number Crunching Server
   21) Dedicated Shell/Desktop/RemotePC Server
   22) Dedicated AI Server
-
+  23) Dedicated Intrusion Detection Server
+  24) Dedicated Encryption Server
+  25) Dedicated Decryption Server
+  26) Dedicated Compression Server
+  27) Dedicated DeCompression Server
 
 Energy Source
 1) Solar Powered
