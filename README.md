@@ -31,6 +31,8 @@ SERVERS
   25) Dedicated Decryption Server
   26) Dedicated Compression Server
   27) Dedicated DeCompression Server
+  28) Dedicated Queue Server
+  29) Dedicated Dispatch Server
 
 Energy Source
 1) Solar Powered
